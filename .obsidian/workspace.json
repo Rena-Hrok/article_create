@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "e0a404cd4efc9b9c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a70bce63056162b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a6fdb644b89ca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "04b1aa194bc43db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "830be74f978fbdb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "984aea1e9258e02f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "4c911097e80ef378",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "745050a217ba98a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0632c40c693da0bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d4c4942cc5c4d31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa56bc23c36829c3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートへのバックリンク"
+            }
+          },
+          {
+            "id": "0e8524bf914edf5f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートからのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "07c0629fb4cbace1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "e382edf16cf1b40c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートのアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "984aea1e9258e02f",
+  "lastOpenFiles": [
+    "article_create",
+    "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+    "Clippings",
+    "clip"
+  ]
+}
