@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a70bce63056162b1",
+        "id": "729559e09b4a80d7",
         "type": "tabs",
         "children": [
           {
-            "id": "b6a6fdb644b89ca5",
+            "id": "8c15c01c60be00f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート"
+              "title": "新規タブ"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートへのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートからのアウトゴーイングリンク"
+              "title": "アウトゴーイングリンク"
             }
           },
           {
@@ -142,13 +136,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポートのアウトライン"
+              "title": "アウトライン"
             }
           }
         ]
@@ -168,10 +161,12 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "984aea1e9258e02f",
+  "active": "8c15c01c60be00f6",
   "lastOpenFiles": [
-    "article_create",
+    "Archive/【インターンレポ】ホテルブランディングのリアルを、「本社」と「ホテルフロント」双方で体感した3か月｜Unito Bootcamp2期生｜unito (ユニット)  使わない日は家賃がかからない暮らしサービス.md",
     "Clippings/【ズルい社内誌の作り方】AIを使って60分以内に、13記事を作ってみる。｜宮里賢史  人口減少とAIの最前線レポート.md",
+    "Archive",
+    "article_create",
     "Clippings",
     "clip"
   ]
